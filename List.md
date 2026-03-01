@@ -2,6 +2,10 @@
 
 <https://github.com/addyosmani/agent-skills/>
 <https://matteomilone.notion.site/database-233-skills>
-<https://opencode.ai/it>
+<https://opencode.ai/it> 
 
 <https://docs.ollama.com/integrations/opencode>
+
+ralph loop: 
+<https://github.com/snarktank/ralph>
+<https://awesomeclaude.ai/ralph-wiggum>
